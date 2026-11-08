@@ -69,7 +69,12 @@
     ["影探线路", "http://www.lyyytv.cn/yt/yt.json"],
     ["无意线路", "https://www.wya6.cn/tv/yc.json"],
     ["凯弟2线", "http://rihou.vip:55/天天开心"],
-    ["凯弟1线", "https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json"]
+    ["凯弟1线", "https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json"],
+    ["香雅晴", "https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"],
+    ["无邪多仓", "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json"],
+    ["霜辉月明py", "https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"],
+    ["qist电视", "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json", "https://qist.wyfc.qzz.io/jsm.json"],
+    ["潇洒", "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"]
   ],
   "API_MIRRORS": {
     "饭太硬": [
@@ -99,6 +104,10 @@
       "https://9877.kstore.space/one.json",
       "https://9877.kstore.space/sun.json",
       "https://9877.kstore.space/ONE/one.json"
+    ],
+    "qist电视": [
+      "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "https://qist.wyfc.qzz.io/jsm.json"
     ]
   }
 }
